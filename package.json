@@ -24,7 +24,7 @@
     "npm": ">= 1.4.0"
   },
   "homepage": "Kikobeats/sails-hook-winston",
-  "keywords": ["sails", "hooks", "winston", "logging"],
+  "keywords": ["sails", "hooks", "winston", "logging", "winston-mail"],
   "license": "MIT",
   "main": "./index.js",
   "repository": "Kikobeats/sails-hook-winston",
